@@ -204,7 +204,7 @@
 {"kodeproduk":"XDC5","namaproduk":"5GB KUOTA UTAMA + 10GB (YOUTUBE) AKTIF 30 HARI"},{"kodeproduk":"XDC10","namaproduk":"10GB KUOTA UTAMA+ 20GB (YOUTUBE) AKTIF 30 HARI"},{"kodeproduk":"XDC15","namaproduk":"15GB KUOTA UTAMA+ 30GB (YOUTUBE) AKTIF 30 HARI"},{"kodeproduk":"XDC20","namaproduk":"20GB KUOTA UTAMA+ 40GB (YOUTUBE) AKTIF 30 HARI"},{"kodeproduk":"XDC35","namaproduk":"35GB KUOTA UTAMA+ 70GB (YOUTUBE) AKTIF 30 HARI"}]},
 
 {"namaoperator":"XL DATA COMBO FLEX","data":[
-{"kodeproduk":"XDCF3","namaproduk":"1.5GB NASIONAL+ LOKAL(0.5-2.5GB)+5MNT NLP 30H"},{"kodeproduk":"XDCF3A","namaproduk":"3GB NASIONAL + LOKAL(1GB-4GB)+5MNT TLP, 30HR"},{"kodeproduk":"XDCF4","namaproduk":"4GB NASIONAL+ LOKAL(1GB-9GB)+5MNT TELP, 30HR"},{"kodeproduk":"XDCF9","namaproduk":"9GB NASIONAL+ LOKAL(1GB-16GB)+5MNT TELP, 30HR"},{"kodeproduk":"XDCF15","namaproduk":"15GB NASIONAL+ LOKAL(4GB-30GB)+5MNT TELP, 30HR"},{"kodeproduk":"XDCF26","namaproduk":"30GB NASIONAL+ LOKAL(3GB-60GB)+5MNT TELP, 30HR"},{"kodeproduk":"XDCF36","namaproduk":"60GB NAS+ LOK(4GB-120GB)+5MNT TELP+ UNL CHAT 30H"}]}],
+{"kodeproduk":"XDCF3","namaproduk":"1.5GB NASIONAL+ LOKAL(0.5-2.5GB)+5MNT NLP 30H"},{"kodeproduk":"XDCF3A","namaproduk":"3GB NASIONAL + LOKAL(1GB-4GB)+5MNT TLP, 30HR"},{"kodeproduk":"XDCF4","namaproduk":"4GB NASIONAL+ LOKAL(1GB-9GB)+5MNT TELP, 30HR"},{"kodeproduk":"XDCF9","namaproduk":"9GB NASIONAL+ LOKAL(1GB-16GB)+5MNT TELP, 30HR"},{"kodeproduk":"XDCF15","namaproduk":"15GB NASIONAL+ LOKAL(4GB-30GB)+5MNT TELP, 30HR"},{"kodeproduk":"XDCF26","namaproduk":"30GB NASIONAL+ LOKAL(3GB-60GB)+5MNT TELP, 30HR"},{"kodeproduk":"XDCF36","namaproduk":"60GB NAS+ LOK(4GB-120GB)+5MNT TELP+ UNL CHAT 30H"}]},
 
 {"namaoperator":"XL DATA COMBO MINI","data":[
 {"kodeproduk":"XDCM2","namaproduk":"XTRA COMBO 2 GB KUOTA UTAMA+4GB DOUBLE YOUTUBE 30H"}]},
@@ -222,7 +222,7 @@
 {"kodeproduk":"XDH1","namaproduk":"HOTROD 24JAM 800MB, 30 HARI"},{"kodeproduk":"XDH2","namaproduk":"HOTROD 24JAM 1.5GB, 30 HARI"},{"kodeproduk":"XDH3","namaproduk":"HOTROD 24JAM 3GB, 30 HARI"},{"kodeproduk":"XDH4","namaproduk":"HOTROD 24JAM 6GB, 30 HARI"},{"kodeproduk":"XDH5","namaproduk":"HOTROD 24JAM 8GB, 30 HARI"},{"kodeproduk":"XDH6","namaproduk":"HOTROD 24 JAM 12GB, 30 HARI"},{"kodeproduk":"XDH7","namaproduk":"HOTROD 24 JAM 16GB, 30 HARI"}]},
 
 {"namaoperator":"XL DATA HOTROD MINI SPECIAL","data":[
-{"kodeproduk":"XDHMS1","namaproduk":"2.5GB (1GB+ 1GB YOUTUBE)+ 0,5GB LOKAL 7HR"},{"kodeproduk":"XDHMS2","namaproduk":"4GB (1,5GB+ 1,5GB YOUTUBE)+ 1GB LOKAL 7HR"},{"kodeproduk":"XDHMS3","namaproduk":"6,5GB (2,5GB+ 2,5GB YOUTUBE)+ 1,5GB LOKAL 7HR "},{"kodeproduk":"XDHMS4","namaproduk":"12GB (5,5GB+ 3,5GB YOUTUBE)+ 3GB LOKAL 7HR"}]},
+{"kodeproduk":"XDHMS1","namaproduk":"2.5GB (1GB+ 1GB YOUTUBE)+ 0,5GB LOKAL 7HR"},{"kodeproduk":"XDHMS2","namaproduk":"4GB (1,5GB+ 1,5GB YOUTUBE)+ 1GB LOKAL 7HR"},{"kodeproduk":"XDHMS3","namaproduk":"6,5GB (2,5GB+ 2,5GB YOUTUBE)+ 1,5GB LOKAL 7HR"},{"kodeproduk":"XDHMS4","namaproduk":"12GB (5,5GB+ 3,5GB YOUTUBE)+ 3GB LOKAL 7HR"}]},
 
 {"namaoperator":"XL DATA SINGEL PURE","data":[
 {"kodeproduk":"XDSP500","namaproduk":"500MB MASA AKTIF 30 HARI"},{"kodeproduk":"XDSP800","namaproduk":"800MB MASA AKTIF 30 HARI"},{"kodeproduk":"XDSP1","namaproduk":"1GB MASA AKTIF 30 HARI"},{"kodeproduk":"XDSP2","namaproduk":"2GB MASA AKTIF 30 HARI"},{"kodeproduk":"XDSP3","namaproduk":"3GB MASA AKTIF 30 HARI"},{"kodeproduk":"XDSP4","namaproduk":"4GB MASA AKTIF 30 HARI"},{"kodeproduk":"XDSP5","namaproduk":"5GB MASA AKTIF 30 HARI"}]},
