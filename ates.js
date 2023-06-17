@@ -198,9 +198,7 @@
 {"kodeproduk":"XDA10","namaproduk":"10GB 2 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"},{"kodeproduk":"XDA25","namaproduk":"25GB = 2 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"},{"kodeproduk":"XDA45","namaproduk":"45GB 3 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"},{"kodeproduk":"XDA80","namaproduk":"80GB = 4 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"},{"kodeproduk":"XDA160","namaproduk":"160GB 4 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"}]},
 
 {"namaoperator":"XL DATA BLUE","data":[
-{"kodeproduk":"XDB1","namaproduk":"XL DATA BLUE 1GB AKTIF 2 HARI"},{"kodeproduk":"XDB3","namaproduk":"XL DATA BLUE 3GB AKTIF 2 HARI"}]},
-
-
+{"kodeproduk":"XDB1","namaproduk":"XL DATA BLUE 1GB AKTIF 2 HARI"},{"kodeproduk":"XDB3","namaproduk":"XL DATA BLUE 3GB AKTIF 2 HARI"}]}],
 
 "game":[{"namaoperator":"TOP UP FREE FIRE","data":[
 {"kodeproduk":"FF5","namaproduk":"5 Diamond"},{"kodeproduk":"FF7","namaproduk":"MemberShip Mingguan"},{"kodeproduk":"FF12","namaproduk":"12 Diamond"},{"kodeproduk":"FF20","namaproduk":"20 Diamond"},{"kodeproduk":"FF30","namaproduk":"MemberShip Bulanan"},{"kodeproduk":"FF50","namaproduk":"50 Diamond"},{"kodeproduk":"FF70","namaproduk":"70 Diamond"},{"kodeproduk":"FF140","namaproduk":"140 Diamond"},{"kodeproduk":"FF355","namaproduk":"355 Diamond"},{"kodeproduk":"FF720","namaproduk":"720 Diamond"},{"kodeproduk":"FF1450","namaproduk":"1450 Diamond"},{"kodeproduk":"FF2180","namaproduk":"2180 Diamond"}]},
