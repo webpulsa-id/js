@@ -198,7 +198,7 @@
 {"kodeproduk":"XDA10","namaproduk":"10GB 2 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"},{"kodeproduk":"XDA25","namaproduk":"25GB = 2 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"},{"kodeproduk":"XDA45","namaproduk":"45GB 3 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"},{"kodeproduk":"XDA80","namaproduk":"80GB = 4 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"},{"kodeproduk":"XDA160","namaproduk":"160GB 4 ANGGOTA+UNL APK+FREE CALL AXIS&XL+30HARI"}]},
 
 {"namaoperator":"XL DATA BLUE","data":[
-{"kodeproduk":"XDB1","namaproduk":"XL DATA BLUE 1GB AKTIF 2 HARI"},{"kodeproduk":"XDB3","namaproduk":"XL DATA BLUE 3GB AKTIF 2 HARI"}]}],
+{"kodeproduk":"XDB1","namaproduk":"XL DATA BLUE 1GB AKTIF 2 HARI"},{"kodeproduk":"XDB3","namaproduk":"XL DATA BLUE 3GB AKTIF 2 HARI"}]},
 
 {"namaoperator":"XL DATA COMBO","data":[{"kodeproduk":"XDC5","namaproduk":"5GB KUOTA UTAMA + 10GB (YOUTUBE) AKTIF 30 HARI},{"kodeproduk":"XDC10","namaproduk":"10GB KUOTA UTAMA+ 20GB (YOUTUBE) AKTIF 30 HARI},{"kodeproduk":"XDC15","namaproduk":"15GB KUOTA UTAMA+ 30GB (YOUTUBE) AKTIF 30 HARI},{"kodeproduk":"XDC20","namaproduk":"20GB KUOTA UTAMA+ 40GB (YOUTUBE) AKTIF 30 HARI},{"kodeproduk":"XDC35","namaproduk":"35GB KUOTA UTAMA+ 70GB (YOUTUBE) AKTIF 30 HARI"}]},
 
@@ -230,7 +230,7 @@
 
 {"namaoperator":"XL VOUCHER HOTROD SPECIAL","data":[{"kodeproduk":"VXHS1","namaproduk":"VOUCHER XL HOTROD SPECIAL 3GB,10HR},{"kodeproduk":"VXHS2","namaproduk":"VOUCHER XL HOTROD SPECIAL 4GB,10HR},{"kodeproduk":"VXHS3","namaproduk":"VOUCHER XL HOTROD SPECIAL 6GB,10HR},{"kodeproduk":"VXHS4","namaproduk":"VOUCHER XL HOTROD SPECIAL 8GB,10HR},{"kodeproduk":"VXHS5","namaproduk":"VOUCHER XL HOTROD SPECIAL 14GB,10HR"}]},
 
-{"namaoperator":"XL VOUCHER NASIONAL","data":[{"kodeproduk":"VXN1","namaproduk":"VOUCHER XL DATA 2GB  7H (1,5GB+1GB YT)},{"kodeproduk":"VXN2","namaproduk":"VOUCHER XL DATA 3GB  7H (2.5GB + 1.5GB YT)},{"kodeproduk":"VXN3","namaproduk":"VOUCHER XL DATA 4,5GB  7H (3,5GB+2,5GB YT)},{"kodeproduk":"VXN4","namaproduk":"VOUCHER XL DATA 6,5GB  7H (6GB+3.5GB YT)"}]},
+{"namaoperator":"XL VOUCHER NASIONAL","data":[{"kodeproduk":"VXN1","namaproduk":"VOUCHER XL DATA 2GB  7H (1,5GB+1GB YT)},{"kodeproduk":"VXN2","namaproduk":"VOUCHER XL DATA 3GB  7H (2.5GB + 1.5GB YT)},{"kodeproduk":"VXN3","namaproduk":"VOUCHER XL DATA 4,5GB  7H (3,5GB+2,5GB YT)},{"kodeproduk":"VXN4","namaproduk":"VOUCHER XL DATA 6,5GB  7H (6GB+3.5GB YT)"}]}],
 
 "game":[{"namaoperator":"TOP UP FREE FIRE","data":[
 {"kodeproduk":"FF5","namaproduk":"5 Diamond"},{"kodeproduk":"FF7","namaproduk":"MemberShip Mingguan"},{"kodeproduk":"FF12","namaproduk":"12 Diamond"},{"kodeproduk":"FF20","namaproduk":"20 Diamond"},{"kodeproduk":"FF30","namaproduk":"MemberShip Bulanan"},{"kodeproduk":"FF50","namaproduk":"50 Diamond"},{"kodeproduk":"FF70","namaproduk":"70 Diamond"},{"kodeproduk":"FF140","namaproduk":"140 Diamond"},{"kodeproduk":"FF355","namaproduk":"355 Diamond"},{"kodeproduk":"FF720","namaproduk":"720 Diamond"},{"kodeproduk":"FF1450","namaproduk":"1450 Diamond"},{"kodeproduk":"FF2180","namaproduk":"2180 Diamond"}]},
