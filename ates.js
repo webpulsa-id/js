@@ -1,14 +1,16 @@
 {"success":true,"pulsa":[
 {"namaoperator":"AXIS DATA BRONET 3 HARI","data":[
-{"kodeproduk":"ADB1","namaproduk":"1.5GB BB2.5/1.5GB BOY/2GB BBOY"},{"kodeproduk":"ADB2","namaproduk":"1.5GB NAT/ 2GB REG1.5/ 2GB BB/ 2.5GB BB2.5/3GB BOY"},{"kodeproduk":"ADB3","namaproduk":"2.5GB NAT/3.5GB REG1.5/4GB BB/4.5GB BB2.5/5GB BOY"},{"kodeproduk":"ADB4","namaproduk":"5GB NAT/6GB REG1.5/7GB BB/8GB BB2.5/9GB BOY"},{"kodeproduk":"ADB5","namaproduk":"10GB NAT/12GB REG1.5/14GB BB/16GB BB2.5/18GB BOY"}]},
+{"kodeproduk":"ADA1","namaproduk":"1GB NAT/1GB REG1.5/1.5GB BB/1.5GB BB2.5/1.5GB BOY"},{"kodeproduk":"ADA2","namaproduk":"2GB NAT/2.5GB REG1.5/3GB BB/3GB BB2.5/3.5GB BOY"},{"kodeproduk":"ADA3","namaproduk":"6GB NAT/7GB REG1.5/8GB BB/9GB BB2.5/10GB BOY"}]},
 
 {"namaoperator":"AXIS DATA BRONET 5 HARI","data":[
-{"kodeproduk":"ADC1","namaproduk":"3.5GB NAT/4GB REG1.5/4.5GB BB/5GB BB2.5/6GB BOY"},{"kodeproduk":"ADC2","namaproduk":"4.5GB NAT/5GB REG1.5/5.5GB BB/6.5GB BB2.5/7.5GB BO"},{"kodeproduk":"ADC3","namaproduk":"6GB NAT/6.5GB REG1.5/7.5GB BB/8.5GB BB2.5/10GB BOY"},{"kodeproduk":"ADC4","namaproduk":"15GB NAT/17GB REG1.5/20GB BB/24GB BB2.5/27GB BOY"}]},
+{"kodeproduk":"ADB1","namaproduk":"1.5GB BB2.5/1.5GB BOY/2GB BBOY"},{"kodeproduk":"ADB2","namaproduk":"1.5GB NAT/ 2GB REG1.5/ 2GB BB/ 2.5GB BB2.5/3GB BOY"},{"kodeproduk":"ADB3","namaproduk":"2.5GB NAT/3.5GB REG1.5/4GB BB/4.5GB BB2.5/5GB BOY"},{"kodeproduk":"ADB4","namaproduk":"5GB NAT/6GB REG1.5/7GB BB/8GB BB2.5/9GB BOY"},{"kodeproduk":"ADB5","namaproduk":"10GB NAT/12GB REG1.5/14GB BB/16GB BB2.5/18GB BOY"}]},
 
 {"namaoperator":"AXIS DATA BRONET 7 HARI","data":[
 {"kodeproduk":"ADC1","namaproduk":"3.5GB NAT/4GB REG1.5/4.5GB BB/5GB BB2.5/6GB BOY"},{"kodeproduk":"ADC2","namaproduk":"4.5GB NAT/5GB REG1.5/5.5GB BB/6.5GB BB2.5/7.5GB BO"},{"kodeproduk":"ADC3","namaproduk":"6GB NAT/6.5GB REG1.5/7.5GB BB/8.5GB BB2.5/10GB BOY"},{"kodeproduk":"ADC4","namaproduk":"15GB NAT/17GB REG1.5/20GB BB/24GB BB2.5/27GB BOY"}]},
 
 {"namaoperator":"AXIS DATA BRONET 15 HARI","data":[
+{"kodeproduk":"ADD1","namaproduk":"4GB NAT/ 5GB REG1.5/ 5GB BB/ 5.5GB BB2.5/ 6.5GB BO"},{"kodeproduk":"ADD2","namaproduk":"8GB NAT/11.5GB REG1.5/13GB BB/15GB BB2.5/16GB BOY"},{"kodeproduk":"ADD3","namaproduk":"630GB NAT/35GB REG1.5/40GB BB/45GB GB2.5/50GB BOY"}]},
+
 {"kodeproduk":"ADA1","namaproduk":"1GB NAT/1GB REG1.5/1.5GB BB/1.5GB BB2.5/1.5GB BOY"},{"kodeproduk":"ADA2","namaproduk":"2GB NAT/2.5GB REG1.5/3GB BB/3GB BB2.5/3.5GB BOY"},{"kodeproduk":"ADA3","namaproduk":"6GB NAT/7GB REG1.5/8GB BB/9GB BB2.5/10GB BOY"}]},
 
 {"namaoperator":"AXIS DATA BRONET 60 HARI","data":[
